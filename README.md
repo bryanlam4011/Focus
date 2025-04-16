@@ -8,7 +8,7 @@ Focus will allow users like students and instructors to have better communicatio
 3. To start Node server use: "node app.js"
 
 
-###How To Access Focus Via Developer Tools (Must be using Google Chrome)
+### How To Access Focus Via Developer Tools (Must be using Google Chrome)
 1. Download all files into one folder
 2. On another tab type "chrome://extensions"
 3. In the top right hand corner, enable developer mode
