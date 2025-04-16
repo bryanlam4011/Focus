@@ -3,6 +3,10 @@ Focus will allow users like students and instructors to have better communicatio
 
 
 ## Run Node program(app.js) to start localhost
+## Node server setup
+1. Use command: "npm install express cors axios dotenv"
+2. Next use: "npm install"
+3. To start Node server use: "node app.js"
 
 How To Access Focus Via Developer Tools (Must be using Google Chrome)
 1. Download all files into one folder
