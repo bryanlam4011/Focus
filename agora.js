@@ -6,9 +6,9 @@ let client = null;
 let localAudioTrack = null;
 
 // Connection parameters
-let appId = "adb001d4affe4c3288e284889716247f";
+let appId = null; //insert the appId
 let channel = "test";
-let token = "007eJxTYHDp4a6oi5NdvczF5LQGy5znUyQ/xUftndjqeMsueY920V8FhsSUJAMDwxSTxLS0VJNkYyMLi1QjCxMLC0tzQzMjE/M0lcjv6Q2BjAyTE9hZGRkgEMRnYShJLS5hYAAA6YYd7g==";
+let token = null; //insert token
 let uid = 0; // User ID
 
 // Initialize the AgoraRTC client
